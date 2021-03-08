@@ -1,0 +1,40 @@
+body{
+    background-color: #2BB3C0;
+}
+.title{
+    position: absolute;
+    left: 42vw;
+    top: 10%;
+    font-size: 3vw;;
+    font-family: arial;
+    z-index: 1;
+    font-weight: bold;
+    background-color: #ED7D31;
+    border: 5px solid black;
+}
+.logo{
+    width: 12%;
+    margin: -1px;
+}
+.projecten{
+    position: absolute;
+}
+#img1{
+    position: absolute;
+    top: 22vw;
+}
+#img2{
+    position: absolute;
+    top: 22vw;
+    left: 40vw;
+}
+#img3{
+    position: absolute;
+    top: 60vw;
+}
+
+#img4{
+    position: absolute;
+    top: 60vw;
+    left: 40vw;
+}
