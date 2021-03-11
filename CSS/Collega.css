@@ -1,0 +1,48 @@
+body{
+    background-color: #2BB3C0;
+}
+.title{
+    position: absolute;
+    left: 43vw;
+    top: 10%;
+    font-size: 3vw;;
+    font-family: arial;
+    z-index: 1;
+    font-weight: bold;
+    background-color: #ED7D31;
+    border: 5px solid black;
+}
+.logo{
+    width: 12%;
+    margin: -1px;
+}
+p, ul{
+    position: absolute;
+    width: 50vw;
+    left: 1vw;
+    font-family: arial;
+    font-weight: normal;
+    font-size: 50px;
+    border: 5px solid black;
+    background-color: #ED7D31;
+}
+ul{
+    top: 840px;
+    width: 48.7vw;
+}
+p:last-of-type{
+    top: 530px;
+    left: 54vw;
+    font-family: arial;
+    width: 1300px;
+}
+h1{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 70px;
+    top: 450px;
+    position: absolute;
+    left: 54vw;
+    background-color: #ED7D31;
+    border: 5px solid black;
+}
