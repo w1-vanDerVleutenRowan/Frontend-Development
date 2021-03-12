@@ -195,3 +195,23 @@ footer p
 {
     padding-left: 20%;
 }
+
+.contactform
+{
+    font-family: "Open Sans";
+    font-weight: normal;
+    text-align: center;
+}
+
+.tabel
+{
+    font-family: "Open Sans";
+    font-weight: normal;
+    text-align: center;
+}
+.questions
+{
+    text-align: center;
+    width: 250px;
+    height: 140px;
+}
