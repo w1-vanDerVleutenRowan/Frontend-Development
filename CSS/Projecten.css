@@ -5,63 +5,57 @@ span{
     position: relative;
     font-family: arial;
     font-weight: bold;
-    font-size: 75px;
+    font-size: 35px;
 }
 .title{
     position: absolute;
     left: 42vw;
-    top: 10%;
+    top: 12%;
     font-size: 3vw;;
     font-family: arial;
     z-index: 1;
     font-weight: bold;
-    background-color: #ED7D31;
-    border: 5px solid black;
-}
-.logo{
-    width: 12%;
-    margin: -1px;
 }
 .projecten{
     position: absolute;
 }
 #img1{
     position: absolute;
-    top: 500px;
-    left: 100px;
+    top: 140px;
+    left: 300px;
 }
 #img2{
     position: absolute;
-    top: 500px;
-    left: 1100px;
+    top: 550px;
+    left: 300px;
 }
 #img3{
     position: absolute;
-    top: 1250px;
-    left: 100px;
+    top: 450px;
+    left: 900px;
 }
 #img4{
     position: absolute;
-    top: 1250px;
-    left: 1100px;
+    top: 140px;
+    left: 900px;
 }
 #caption1, #caption2, #caption3, #caption4{
     background-color: #ED7D31;
     border: 5px solid black;
 }
 #caption1{
-    top: 400px;
-    left: 160px
+    left: 300px;
+    top: 90px;
 }
 #caption2{
-    top: 310px;
-    left: 1200px;
+    left: 900px;
+    top: 360px;
 }
 #caption3{
-    top: 975px;
-    left: 310px;
+    left: 300px;
+    top: 420px;
 }
 #caption4{
-    top: 890px;
-    left: 1200px;
+    top: -30px;
+    left: 900px;
 }
