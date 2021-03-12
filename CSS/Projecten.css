@@ -1,0 +1,67 @@
+body{
+    background-color: #2BB3C0;
+}
+span{
+    position: relative;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 75px;
+}
+.title{
+    position: absolute;
+    left: 42vw;
+    top: 10%;
+    font-size: 3vw;;
+    font-family: arial;
+    z-index: 1;
+    font-weight: bold;
+    background-color: #ED7D31;
+    border: 5px solid black;
+}
+.logo{
+    width: 12%;
+    margin: -1px;
+}
+.projecten{
+    position: absolute;
+}
+#img1{
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+#img2{
+    position: absolute;
+    top: 500px;
+    left: 1100px;
+}
+#img3{
+    position: absolute;
+    top: 1250px;
+    left: 100px;
+}
+#img4{
+    position: absolute;
+    top: 1250px;
+    left: 1100px;
+}
+#caption1, #caption2, #caption3, #caption4{
+    background-color: #ED7D31;
+    border: 5px solid black;
+}
+#caption1{
+    top: 400px;
+    left: 160px
+}
+#caption2{
+    top: 310px;
+    left: 1200px;
+}
+#caption3{
+    top: 975px;
+    left: 310px;
+}
+#caption4{
+    top: 890px;
+    left: 1200px;
+}
